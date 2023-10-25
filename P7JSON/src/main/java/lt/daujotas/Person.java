@@ -5,7 +5,7 @@ public class Person {
     private  String name;
     private  int age;
 
-    public Person() {
+    public Person() {   //JSON reikalinga butinai tuscias konstruktorius kad galima butu atlikti deserlializacija
 
     }
 
